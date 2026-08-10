@@ -31,7 +31,7 @@ public final class Main {
     // 可选协议，填写端口则启动对应协议，留空不启动
     static final String CONF_HY2_PORT = "24113";
     static final String CONF_TUIC_PORT = "24116";
-    static final String CONF_REALITY_PORT = "24113";
+    static final String CONF_REALITY_PORT = "";
     static final String CONF_REALITY_DOMAIN = "";
     static final String CONF_SS_PORT = "";
     static final String CONF_S5_PORT = "";
